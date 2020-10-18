@@ -58,26 +58,6 @@
                                                         </div>
                                                     </li>
                                                     <li class="online">
-                                                        <div class="item" data-title="Conseil de classe - BTS SN" data-category="En ligne">
-                                                            <div class="img_holder">
-                                                                <img src="image/thumb-square.webp" alt="" />
-                                                                <div class="abs_img" data-bg-img="image/sn.webp">
-                                                                    <a href="http://conseil.matthieudevilliers.fr/" target="_blank"></a>
-                                                                </div>
-                                                            </div>
-                                                            <div class="title_holder">
-                                                                <h3>
-                                                                    <a href="http://conseil.matthieudevilliers.fr/" target="_blank">Conseil de classe - BTS SN</a>
-                                                                </h3>
-                                                                <p>
-                                                                    <a href="http://conseil.matthieudevilliers.fr/" target="_blank">
-                                                                        <span class="extra"></span>En ligne
-                                                                    </a>
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <li class="online">
                                                         <div class="item" data-title="Mon CV en ligne" data-category="En ligne">
                                                             <div class="img_holder">
                                                                 <img src="image/thumb-square.webp" alt="" />
@@ -118,12 +98,28 @@
                                                         </div>
                                                     </li>
                                                     <li class="archive">
+                                                        <div class="item" data-title="Conseil de classe - BTS SN" data-category="Archive">
+                                                            <div class="img_holder">
+                                                                <img src="image/thumb-square.webp" alt="" />
+                                                                <div class="abs_img" data-bg-img="image/sn.webp"></div>
+                                                            </div>
+                                                            <div class="title_holder">
+                                                                <h3>
+                                                                    <a>Conseil de classe - BTS SN</a>
+                                                                </h3>
+                                                                <p>
+                                                                    <a>
+                                                                        <span class="extra"></span>Archive
+                                                                    </a>
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="archive">
                                                         <div class="item" data-title="Canhumanitaire - Association humanitaire" data-category="Archive">
                                                             <div class="img_holder">
                                                                 <img src="image/thumb-square.webp" alt="" />
-                                                                <div class="abs_img" data-bg-img="image/canhumanitaire.webp">
-                                                                    <a></a>
-                                                                </div>
+                                                                <div class="abs_img" data-bg-img="image/canhumanitaire.webp"></div>
                                                             </div>
                                                             <div class="title_holder">
                                                                 <h3>
@@ -141,9 +137,7 @@
                                                         <div class="item" data-title="Los Santos RolePlay FR - Projet GTA V" data-category="Archive">
                                                             <div class="img_holder">
                                                                 <img src="image/thumb-square.webp" alt="" />
-                                                                <div class="abs_img" data-bg-img="image/lsrpfr.webp">
-                                                                    <a></a>
-                                                                </div>
+                                                                <div class="abs_img" data-bg-img="image/lsrpfr.webp"></div>
                                                             </div>
                                                             <div class="title_holder">
                                                                 <h3>
@@ -161,9 +155,7 @@
                                                         <div class="item" data-title="Site récapitulatif du séjour de mon frère à Göteborg" data-category="Archive">
                                                             <div class="img_holder">
                                                                 <img src="image/thumb-square.webp" alt="" />
-                                                                <div class="abs_img" data-bg-img="image/Göteborg.webp">
-                                                                    <a></a>
-                                                                </div>
+                                                                <div class="abs_img" data-bg-img="image/Göteborg.webp"></div>
                                                             </div>
                                                             <div class="title_holder">
                                                                 <h3>
