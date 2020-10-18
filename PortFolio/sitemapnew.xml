@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://matthieudevilliers.fr/</loc>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://matthieudevilliers.fr/image/Google_Assistant_logo.webp</image:loc>
+      <image:title>Logo de profil</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://matthieudevilliers.fr/image/IMG_20180831_004109_835.webp</image:loc>
+      <image:title>Image de profil</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://matthieudevilliers.fr/index.php</loc>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://matthieudevilliers.fr/image/Google_Assistant_logo.webp</image:loc>
+      <image:title>Logo de profil</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://matthieudevilliers.fr/image/IMG_20180831_004109_835.webp</image:loc>
+      <image:title>Image de profil</image:title>
+    </image:image>
+  </url>
+</urlset>
